@@ -8,10 +8,8 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse">
       <ul class="nav navbar-nav">
-          <router-link to="/portfolio" activeClass="active" tag="li"><a>Portfolio</a></router-link>]
+          <router-link to="/portfolio" activeClass="active" tag="li"><a>Portfolio</a></router-link>
           <router-link to="/stocks" activeClass="active" tag="li"><a>Stocks</a></router-link>
-        <li><a href="#">Link <span class="sr-only">(current)</span></a></li>
-        <li><a href="#">Link</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#">End Day</a></li>
